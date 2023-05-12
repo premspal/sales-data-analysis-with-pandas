@@ -1,6 +1,8 @@
 # sales-data-analysis-with-pandas
 
-We start by cleaning our data. 
+We First combine all monthly sales data into single all_data.csv file.
+
+Then, We start by cleaning our data. 
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
